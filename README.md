@@ -1,3 +1,4 @@
+![Screenshot (60)](https://github.com/user-attachments/assets/5d8d1992-5e8f-4b87-9503-4b2d93ffb631)
 # Hospitality-Analysis
 In this project report making using power BI ,for the revenue management team of hotel chain, which can provide key insights on Revenue trend.
 Insights
